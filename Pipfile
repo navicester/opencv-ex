@@ -8,6 +8,7 @@ jupyter = "*"
 opencv-contrib-python = "*"
 pillow = "*"
 numpy = "*"
+opencv-python = "*"
 
 [dev-packages]
 
